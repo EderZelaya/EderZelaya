@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hola, soy Eder Zelaya
 
-<!--
-**EderZelaya/EderZelaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science Graduate | Forge Geek Academy  
+📍 Madrid, España  
 
-Here are some ideas to get you started:
+Profesional en transición al sector tecnológico con formación en Ciencia de Datos y enfoque analítico.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+He desarrollado proyectos end-to-end que incluyen:
+- 🐍 Python (Pandas, NumPy, SQL, ARIMA, Scikit-learn)
+- 📊 Análisis y visualización de datos
+- 🤖 Machine Learning
+- 🌐 Consumo de APIs y Web Scraping
+- 🗄 SQL y manipulación de bases de datos
+- 📈 Modelado predictivo y evaluación de modelos
+
+📫 Abierto a colaborar en proyectos y nuevos retos profesionales.
