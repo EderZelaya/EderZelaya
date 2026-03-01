@@ -6,7 +6,7 @@
 Profesional en transición al sector tecnológico con formación en Ciencia de Datos y enfoque analítico.
 
 He desarrollado proyectos end-to-end que incluyen:
-- 🐍 Python (Pandas, NumPy, SQL, ARIMA, Scikit-learn)
+- 🐍 Python (Pandas, NumPy, ARIMA, Scikit-learn)
 - 📊 Análisis y visualización de datos
 - 🤖 Machine Learning
 - 🌐 Consumo de APIs y Web Scraping
