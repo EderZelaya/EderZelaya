@@ -1,7 +1,7 @@
 # 🐶 Hola, soy Eder Zelaya
 
-🎓 Data Science Graduate | Forge IT Academy  
-📍 Barcelona, España  
+🎓 Data Science Graduate | 4Geeks Academy  
+📍 Madrid, España  
 
 Profesional en transición al sector tecnológico con formación en Ciencia de Datos y enfoque analítico.
 
